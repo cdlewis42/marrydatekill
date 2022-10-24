@@ -17,15 +17,24 @@ function shuffleBachelors (array){
     var newDiv = $("<div>" + newBachelor + "</div>")
 
     //Here I am pushing the bachelor into the array so I can check for recurring bachelors later
-    newArray.push(newBachelor)
+    //newArray.push(newBachelor)
+
+    if (newArray.indexOf(newBachelor) === -1){
+        newArray.push(newBachelor)
+        $(bachelorDiv).append(newDiv)
+        console.log(bachelor)
+    }
+    else{
+        i=i+1
+    }
 
     //console logging for checks
     console.log(newArray)
     console.log(newDiv)
     
     //rendering them on screen
-    $(bachelorDiv).append(newDiv)
-    console.log(bachelor)
+    // $(bachelorDiv).append(newDiv)
+    // console.log(bachelor)
       
 }
 }
