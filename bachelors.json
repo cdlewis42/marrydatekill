@@ -1,0 +1,57 @@
+{
+    "bachelors":
+[{
+    "id": 1,
+    "name": "Wraith",
+    "image": "https://cdnb.artstation.com/p/assets/covers/images/017/378/349/large/isaac-fortaich-wraith05.jpg?1555712796"
+}, {
+    "id": 2,
+    "name": "Freddy",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8fde87e7-9e99-430f-b8cd-b1255d5ac4b2/dcnrmlj-ecae00d9-d225-456d-9414-226b83abd3ce.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhmZGU4N2U3LTllOTktNDMwZi1iOGNkLWIxMjU1ZDVhYzRiMlwvZGNucm1sai1lY2FlMDBkOS1kMjI1LTQ1NmQtOTQxNC0yMjZiODNhYmQzY2UuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.oB-0pQcBB-Zg58gX3a8vfT-JWQh0L_GgBwp0eeTPP6k"
+},
+{
+    "id": 3,
+    "name": "Huntress",
+    "image": "https://deadbydaylight.com/static/f00176036126f7f53d2944c863882ab9/77cd1/DBD_Killer_Huntress_only_7510a188be.png"
+},
+
+{
+    "id": 4,
+    "name": "Michael Meyers",
+    "image": "https://i.redd.it/2yinpi6jfwi81.png"
+},
+
+{
+    "id": 5,
+    "name": "Bubba",
+    "image": "https://preview.redd.it/6aoc7cywow051.png?auto=webp&s=9098c24ba09b7adf9a0bb0f1dcdd19efe1e8a16e"
+},
+
+{
+    "id": 6,
+    "name": "Spirit",
+    "image": "https://deadbydaylight.com/static/0b2f9f0e0198dce197e013af0e0522ce/c7c84/DBD_Killer_Spirit_only_ca6f40fdfa.png"
+},
+{
+    "id": 7,
+    "name": "Crow Mommy",
+    "image": "https://blog.turtlebeach.com/wp-content/uploads/2022/04/Dead-By-Daylight-Artist-Killer.png"
+},
+{
+    "id": 8,
+    "name": "Claudette",
+    "image": "https://www.giantbomb.com/a/uploads/scale_medium/37/370194/2987815-claudette_morel.png"
+},
+{
+    "id": 9,
+    "name": "Dwight",
+    "image": "https://www.gamersdecide.com/sites/default/files/styles/news_images/public/top_5_dead_by_daylight_best_dwight_builds_main_image_1.jpg"
+},
+{
+    "id": 10,
+    "name": "Kate Denson",
+    "image": "https://pbs.twimg.com/media/E5tjcNVWYAEN_0y.jpg:large"
+}
+
+]
+}
